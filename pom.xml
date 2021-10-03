@@ -11,7 +11,7 @@
 	</parent>
 	<groupId>com.6d.microservices</groupId>
 	<artifactId>currency-exchange-service</artifactId>
-	<version>2.0.0.RELEASE</version>
+	<version>4.0.0.RELEASE</version>
 	<name>currency-exchange-service</name>
 	<description>Currency Exchange Service</description>
 	<properties>
